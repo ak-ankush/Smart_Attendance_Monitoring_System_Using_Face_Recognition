@@ -1,5 +1,5 @@
-# Smart_Attendance_Monitoring_System_Using_Face_Recognition
-This repository contains the technical paper for our final-year B.Tech project titled "Smart Attendance Monitoring System Using Face Recognition", completed as part of our coursework at Reva University.
+# Smart_Attendance_Monitoring_System_Using_Face_Registering
+This repository contains the technical paper for our final-year B.Tech project titled "Smart Attendance Monitoring System Using Face Registering", completed as part of our coursework at Reva University.
 
 ## Introduction
 The project explores an automated attendance monitoring system that leverages facial recognition using two key algorithms: Principal Component Analysis (PCA) and our proposed Unconstrained Face Registering Algorithm. This system addresses the inefficiencies of manual attendance in academic environments by introducing a contactless, automated solution that improves accuracy, saves time, and maintains a record of student presence through continuous observation.
